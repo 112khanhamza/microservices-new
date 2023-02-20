@@ -1,0 +1,5 @@
+com/hamza/model/Inventory.class
+com/hamza/repository/InventoryRepository.class
+com/hamza/InventoryServiceApplication.class
+com/hamza/controller/InventoryController.class
+com/hamza/service/InventoryService.class

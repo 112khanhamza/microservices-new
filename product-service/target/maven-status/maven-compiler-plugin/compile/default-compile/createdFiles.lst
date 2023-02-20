@@ -1,0 +1,10 @@
+com/hamza/model/Product$ProductBuilder.class
+com/hamza/dto/ProductResponse.class
+com/hamza/model/Product.class
+com/hamza/dto/ProductRequest.class
+com/hamza/repository/ProductRepository.class
+com/hamza/dto/ProductResponse$ProductResponseBuilder.class
+com/hamza/controller/ProductController.class
+com/hamza/dto/ProductRequest$ProductRequestBuilder.class
+com/hamza/service/ProductService.class
+com/hamza/ProductServiceApplication.class
