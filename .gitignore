@@ -1,1 +1,25 @@
-.idea/
+/target/
+*/target/**
+**/META-INF/
+!.mvn/wrapper/maven-wrapper.jar
+
+### STS ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### Docker Volumes ###
+mongo-data
+mysql_keycloak_data
+postgres-inventory
+postgres-order

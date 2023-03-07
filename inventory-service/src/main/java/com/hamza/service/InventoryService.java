@@ -23,7 +23,7 @@ public class InventoryService {
     @SneakyThrows
     public List<InventoryResponse> isInStock(List<String> skewCode) {
         log.info("Wait Started");
-        Thread.sleep(5000);
+//        Thread.sleep(5000);
         log.info("Wait Ended");
         return inventoryRepository.findBySkewCodeIn(skewCode).stream()
                 .map(inventory ->
